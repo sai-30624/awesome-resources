@@ -1426,7 +1426,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Remote SSH: Tips and Tricks](https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks)
 
 ### Tools
-
+- :wrench: [Visual Studio Code](https://code.visualstudio.com/) - Free, lightweight, and powerful code editor with extensions for almost every programming language.
 - :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
 - :wrench: [How To Set Up ESLint & Prettier In VS Code](https://dev.to/rahulshawdev/how-to-set-up-eslint-prettier-in-vs-code-1dc1)
 - :wrench: [Ray.so](https://ray.so/): Create beautiful images of your code snippets!
