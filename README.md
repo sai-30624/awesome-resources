@@ -1336,6 +1336,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## Web Development
+- [MDN Web Docs](https://developer.mozilla.org/) - Free, comprehensive web development documentation and tutorials for HTML, CSS, JavaScript, and web APIs.
 
 - :books: [IBM Full Stack Software Developer Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
