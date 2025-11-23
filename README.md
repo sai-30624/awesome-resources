@@ -233,7 +233,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## AWS
-
 - :books: [Learn AWS with Training and Certification](https://aws.amazon.com/training/)
 
 ---
@@ -242,7 +241,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Big Data
 
-- :video_camera: [Big Data](https://youtube.com/playlist?list=PL-Jc9J83PIiFFhKLTP1_UDUiNE0xXbJqr)
+- :video_camera: [Big Data YouTube Playlist](https://youtube.com/playlist?list=PL-Jc9J83PIiFFhKL)
+- **Kaggle Big Data**
+  - [Kaggle Datasets for Big Data](https://www.kaggle.com/datasets?search=big%20data) — A searchable collection of big‑data related datasets on Kaggle (Hadoop logs, large event data, etc.)
+  - [Kaggle Learn: Big Data Tutorials & Notebooks](https://www.kaggle.com/learn) — Hands-on courses and notebooks relevant for big data (e.g., SQL, Data Engineering)
+  - [Kaggle Big Data Competitions](https://www.kaggle.com/competitions) — Competitions involving big data analytics, predictive modeling, and large-scale data processing
 
 ---
 
