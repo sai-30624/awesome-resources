@@ -547,7 +547,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## Ethical Hacking
-
+- :webgoat: [OWASP WebGoat](https://owasp.org/www-project-webgoat/) - An intentionally insecure web application for learning web security vulnerabilities and practicing penetration testing safely.
 - :bulb: [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - :video_camera: [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - :wrench: [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
